@@ -1,2 +1,2 @@
-# Hello World
-Bem-vindo ao meu repositório!
+# Meu Repositório
+Este repositório é usado para aprender Git e GitHub.
